@@ -12,3 +12,11 @@ button#btn {
     color: white;
     padding: 3px 5px;
 }
+
+h2 {
+    color: white;
+}
+
+img#img-fire {
+    width: 450px;
+}
