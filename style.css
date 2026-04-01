@@ -5,3 +5,22 @@ body {
 h1 {
     color: chartreuse;
 }
+
+button#btn, button#btn2 {
+    border-radius: 10px;
+    background-color: mediumslateblue;
+    color: white;
+    padding: 3px 5px;
+}
+
+button#btn2 {
+    background-color: crimson;
+}
+
+h2 {
+    color: white;
+}
+
+img#img-fire {
+    width: 450px;
+}
